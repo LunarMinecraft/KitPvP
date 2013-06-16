@@ -1,0 +1,8 @@
+main: com.lunarddosing.Kits
+version: 1
+name: Gizmo
+
+commands:
+   kitb:
+      description: Hope you like it Sander!
+      permission: kitb.kitb
